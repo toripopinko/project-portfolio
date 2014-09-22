@@ -1,0 +1,21 @@
+<head>
+
+header{
+        border-bottom-style: solid;
+    }
+        
+body{
+        background: antiquewhite;
+            font-family: arial;
+    }
+    h1{ 
+    color: forestgreen;
+        font-family: cursive
+    
+         }
+         
+         h2{
+         text-align: center;
+         color: lightcoral;
+             font-family: cursive
+         }
