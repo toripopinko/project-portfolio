@@ -1,0 +1,62 @@
+/*
+Tori Popinko
+
+Plum - #74525f
+Magenta - #832d51
+Navy - #2c3e50
+*/
+
+h1{
+    color: #832d51;
+}
+
+a{
+    color: #832d51;
+}
+h2{
+    color: #2c3e50;
+}
+
+.colorwrapper{
+    background-color: green;
+}
+
+
+
+.colorsquare{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.color1{
+    
+    background-color:   #74525f;
+}
+.color2{
+    
+    background-color:  #832d51;
+}
+.color3{
+   
+    background-color: #2c3e50;  
+}
+
+.clear{
+    clear: both;
+}
+
+
+header{
+    width: 800px;
+background-color: #dddddd;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.clearfix: before,
+.clearfix: after {
+    content: " "; 
+    display: table; 
+}
