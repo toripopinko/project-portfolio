@@ -55,6 +55,12 @@ background-color: #dddddd;
 }
 
 
+.site-footer a{
+font-size: 2em;
+color: pink;
+}
+
+
 .clearfix: before,
 .clearfix: after {
     content: " "; 
