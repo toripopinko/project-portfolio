@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+body {
+    background-image:url( 'images/seamless-background-image-tile.jpg' );
+
+    background-color: #FAEBD7; 
+}
+
+h1 {
+    font-family: lobster;
+    color: #008B8B;
+}
+h2 {
+    font-family: lobster;
+    color: #008B8B;
+}
+h3 {
+    font-family: lobster;
+    color: #008B8B;
+}
+
