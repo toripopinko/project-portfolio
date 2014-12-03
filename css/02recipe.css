@@ -1,0 +1,79 @@
+* {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+/* set the default color, font-size, and line height */
+
+body {
+     background-color: #FFCCCC;
+    font-family: monospace; 
+    color: #FF0066;
+}
+
+
+
+h1 {
+    font-family: cursive;
+    color: #990033;
+}
+ 
+h2 {
+    font-family: cursive;
+    color: #990033; 
+}
+
+h3 {
+    font-family: cursive;
+    color: #990033; 
+}
+
+h4 {
+    font-family: cursive;
+    color: #990033; 
+}
+
+h5 {
+    font-family: cursive;
+    color: #990033; 
+}
+
+.recipe {
+align-content: center;
+    height: 400px;
+    width: 400px;
+    border: 3px solid #990033; 
+}
+
+html {
+color: #333;
+font-size: 1em;
+line-height: 1.4;
+}
+/* make images and embedded media fluid */
+img,
+object {
+max-width: 100%;
+}
+/* type hierarchy- change for your project */
+h1 {
+font-size: 3em; /* 48px */
+}
+h2 {
+font-size: 2.25em /* 36px */
+}
+h3 {
+font-size: 1.75em /* 28px */
+}
+h4 {
+font-size: 1.125em /*18px */
+}
+
+.clearfix:before,
+.clearfix:after {
+content: " "; /* 1 */
+display: table; /* 2 */
+}
+.clearfix:after {
+clear: both;
+}
