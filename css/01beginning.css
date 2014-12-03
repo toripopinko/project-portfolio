@@ -1,0 +1,35 @@
+* {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+/* set the default color, font-size, and line height */
+
+
+body {
+    background-color: #CCCCFF;
+    color: #660099;
+}
+
+
+h {
+    border: 2px dashed black;
+    color: white;
+    font-family: cursive;
+}
+
+h2 {
+     border: 2px dashed black;
+    color: white;
+    font-family: cursive;
+}
+
+h3 {
+    color: white;
+    font-family: cursive;
+}
+
+.page-header {
+    color: white;
+    font-family: cursive;
+}
